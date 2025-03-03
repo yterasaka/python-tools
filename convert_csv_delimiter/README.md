@@ -15,3 +15,17 @@ cd /path/to/convert_csv_delimiter
 
 python convert_csv_delimiter.py
 ```
+
+## 仮想環境
+
+1. 有効化する
+
+```bash
+source .venv/bin/activate
+```
+
+2. 無効化する
+
+```bash
+deactivate
+```
